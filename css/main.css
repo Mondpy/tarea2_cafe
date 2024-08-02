@@ -56,7 +56,11 @@ li {
   padding: 50px 10% 30px;
 }
 .section_inner_head_title {
-  padding: 150px 10% 30px;
+  padding: 50px 10% 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
 }
 .concept_content {
   display: flex;
@@ -153,8 +157,8 @@ font-size: 18px;
 text-align: right;
 }
 .menu_list_coffee_menu {
-width: 97%;
-margin-bottom: 20px;
+/*width: 97%;
+margin-bottom: 20px;*/
 }
 .menu_list_coffee_menu {
   background: #fff;
