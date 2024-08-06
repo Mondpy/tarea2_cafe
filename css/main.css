@@ -160,6 +160,9 @@ text-align: right;
 /*width: 97%;
 margin-bottom: 20px;*/
 }
+.cafe_list {
+ margin: 20px
+}
 .menu_list_coffee_menu {
   background: #fff;
   padding: 20px;
